@@ -203,6 +203,12 @@
         <version>1.8.5</version>
         <scope>test</scope>
       </dependency>
+             
+      <dependency>
+         <groupId>jstl</groupId>
+         <artifactId>jstl</artifactId>
+         <version>0.0</version>
+      </dependency>
     </dependencies>
   </dependencyManagement>
 
