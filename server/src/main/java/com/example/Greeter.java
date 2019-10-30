@@ -9,7 +9,7 @@ public class Greeter {  /**
   public Greeter() {
   }
 /**
-    *@param  someon someone
+    *@param  someone someone
     *@return String
     */
   public final String greet(final String someone) {
